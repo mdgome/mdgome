@@ -12,7 +12,3 @@ mdgome3@gmail.com
 </a> <a href = "https://mdgome.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 
 
-
-
-### SkillSet
-<img src ="https://img.shields.io/badge/ELK Stack-005571?style=for-the-badge&logo=Elastic Stack&logoColor=white"> <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src ="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white"> <img src ="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
